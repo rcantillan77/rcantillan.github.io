@@ -18,7 +18,10 @@ theme_settings :
         experience : FONDECYT 1171426, Asistente técnico
       - start : 2018-07-01
         end : 2020-01-28
-        experience : Universidad de Santiago de Chile, Escuela de Psicología. Profesor. 
+        experience : Universidad de Santiago de Chile, Psicología. Profesor
+       - start : 2019-06-01
+        end : 2020-03-15
+        experience : Instituto de Seguridad del Trabajo. Analista. 
       
     skills : 
       - skill : markdown
