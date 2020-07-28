@@ -11,11 +11,15 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Roberto Cantillan
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : Sociólogo, Magister en Ciencias Sociales por la Universidad de Santiago de Chile. Miembro del laboratorio de Análisis de Redes Sociales. 
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
+      - start : 2019-08-02
+        end : 2020-05-02
+        experience : Universidad de Santiago de Chile. Profesor. 
+      
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
