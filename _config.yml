@@ -26,10 +26,10 @@ theme_settings :
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
-    gitlab: 
+    email: roberto.cantillan@usach.cl # Full email address, e.g. "sample@google.com"
+    linkedin: https://www.linkedin.com/in/roberto-cantillan-carrasco-67620517b/ # Full URL 
+    github: @rcantillan77
+    gitlab: @roberto.cantillan
     bitbucket: 
     google_plus:
     twitter:
