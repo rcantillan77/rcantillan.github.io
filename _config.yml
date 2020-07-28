@@ -10,9 +10,9 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Roberto Cantillan
+    username : Roberto Cantillan Carrasco
     description : Sociólogo, Magister en Ciencias Sociales por la Universidad de Santiago de Chile. Miembro del laboratorio de Análisis de Redes Sociales. 
-    experience :
+    experiencia :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
@@ -20,7 +20,7 @@ theme_settings :
         end : 2020-05-02
         experience : Universidad de Santiago de Chile. Profesor. 
       
-    skills : 
+    habilidades : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
         
