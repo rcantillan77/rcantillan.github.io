@@ -24,9 +24,11 @@ theme_settings :
       - skill : markdown
         value : 50
       - skill : R 
-        value : 55 
+        value : 65 
       - skill : idioma (inglés) 
         value : 80 
+      - skill : Social Network Analysis
+        value : 60
        
         
   # Icons
