@@ -25,6 +25,9 @@ theme_settings :
         value : 85  # Percent value
       - skill : R 
         value : 55 
+      - skill : idioma (inglés) 
+        value : 80 
+       
         
   # Icons
   icons :
