@@ -15,13 +15,13 @@ theme_settings :
     experiencia :
       - start : 2017-05-03
         end : 2018-05-06
-        experience : company name, title
+        experiencia : company name, title
       - start : 2019-08-02
         end : 2020-05-02
-        experience : Universidad de Santiago de Chile. Profesor. 
+        experiencia : Universidad de Santiago de Chile. Profesor. 
       
     habilidades : 
-      - skill : HTML5 & CSS
+      - habilidad : HTML5 & CSS
         value : 85  # Percent value
         
   # Icons
