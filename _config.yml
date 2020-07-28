@@ -19,19 +19,21 @@ theme_settings :
       - start : 2018-07-01
         end : 2020-01-28
         experience : Universidad de Santiago de Chile, Psicología, Profesor
-       - start : 2019-06-01
+      - start : 2019-06-01
         end : 2020-03-15
         experience : Instituto de Seguridad del Trabajo, Analista 
       
     skills : 
       - skill : markdown
         value : 50
-      - skill : R 
+      - skill : R (programmer) 
         value : 65 
       - skill : idioma (inglés) 
         value : 80 
       - skill : Social Network Analysis
         value : 60
+      - skill : Statistics
+        value : 60 
        
         
   # Icons
