@@ -21,8 +21,8 @@ theme_settings :
         experience : Universidad de Santiago de Chile. Profesor. 
       
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : markdown
+        value : 50
       - skill : R 
         value : 55 
       - skill : idioma (inglés) 
