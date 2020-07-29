@@ -1,12 +1,17 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://http://redeslab.gitlab.io/ # Full URL
+    url : http://redeslab.gitlab.io/ # Full URL
     image : "xZ9UB8.jpg" # path: assets/project/
     date : 2020.06.09 - Developing
     title : redesLab 
     summary : Laboratorio de Análisis de Redes Sociales
     description : 
+    El laboratorio de análisis de redes sociales busca establecer un grupo excelencia 
+    para el análisis de redes sociales en Chile. Proveer análisis de redes sobre problemas 
+    sustantivos de la realidad social.Estimular el interes con respecto al análisis 
+    de redes en Chile y Latinoamérica y hacer contribuciones importantes a la literatura 
+    de análisis de redes sociales
  
     contents :
         - title : 1. 블로그 첫 화면 구성
