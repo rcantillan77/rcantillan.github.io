@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post with Markdown
-subtitle : How markdown is displayed as html
-tags: [Sample Post, Demo]
+title: Estados y procesos latentes de Markov
+subtitle : Pasado, presente y futuro
+tags: [Markov, procesos latentes]
 author: Nayeong Kim
 comments : True
 ---
