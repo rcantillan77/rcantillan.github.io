@@ -3,7 +3,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : redeslab.gitlab.io/ # Full URL
     image : "xZ9UB8.jpg" # path: assets/project/
-    date : 2020.06.09 - Developing
+    date : 2020.06.09 - En desarrollo
     title : redesLab 
     summary : Laboratorio de Análisis de Redes Sociales
     description : El laboratorio de análisis de redes sociales busca establecer un grupo excelencia para el análisis de redes sociales en Chile.  
