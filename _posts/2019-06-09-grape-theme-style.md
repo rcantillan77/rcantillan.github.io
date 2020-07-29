@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample Post with Grape-Theme style
-subtitle : How markdown is displayed as html
-tags: [Sample Post, Welcome to the Grape Theme!]
-author: Nayeong Kim
-comments : False
+title: El valor de la diversidad 
+subtitle : o como hacer más probable la intersección de círculos y el acceso a recursos no redundantes. 
+tags: [Social capital, Heterogeneidad]
+author: Roberto Cantillan
+comments : TRUE
 ---
 
 This is an example of a post which includes code, quotes and backtick.
