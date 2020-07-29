@@ -1,7 +1,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : http://redeslab.gitlab.io/ # Full URL
+    url : redeslab.gitlab.io/ # Full URL
     image : "xZ9UB8.jpg" # path: assets/project/
     date : 2020.06.09 - Developing
     title : redesLab 
