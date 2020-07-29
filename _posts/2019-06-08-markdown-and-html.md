@@ -2,7 +2,7 @@
 layout: post
 title: Estados y procesos latentes de Markov
 subtitle : Pasado, presente y futuro de los agentes
-tags: [Markov, procesos latentes]
+tags: [Markov, Latent process]
 author: Roberto Cantillan
 comments : True
 ---
