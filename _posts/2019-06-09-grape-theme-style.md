@@ -2,7 +2,7 @@
 layout: post
 title: El valor de la diversidad 
 subtitle : o como hacer más probable la intersección de círculos y el acceso a recursos no redundantes. 
-tags: [Social capital, Heterogeneidad]
+tags: [Social capital, Heterogeneity]
 author: Roberto Cantillan
 comments : TRUE
 ---
