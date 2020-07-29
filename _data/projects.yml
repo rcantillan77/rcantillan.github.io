@@ -8,18 +8,18 @@
     summary : Laboratorio de Análisis de Redes Sociales
     description : El laboratorio de análisis de redes sociales busca establecer un grupo excelencia para el análisis de redes sociales en Chile.  
     contents :
-        - title : 1. 블로그 첫 화면 구성
-          image : home.png
+        - title : 1. Proveer análisis de redes sobre problemas sustantivos de la realidad social
+          image : 
           description : <li>Responsive Layout</li>
             <li>User Profile</li> 
             <li>Tags</li> 
             <li>Projects</li> 
             <li>Pagination</li>
-        - title : 2. 태그 페이지
-          image : tags.png
+        - title : 2. Estimular el interes con respecto al análisis de redes en Chile y Latinoamérica
+          image : 
           description : <li>Responsive Layout</li> 
             <li>Tags</li> 
-        - title : 3. 남은 개발 과제
+        - title : 3. Hacer contribuciones importantes a la literatura de análisis de redes sociales
           image :
           description : <li>project 부분 디자인 변경</li>
             <li>favicon.ico, search 기능</li>
@@ -33,6 +33,6 @@
     url :  # Full URL
     image : # path: assets/project/
     date : 2019.06.09 - Developing
-    title : Dummy project
+    title : Asociaciones voluntarias y capital social en Chile. 
     summary : This is Dummy
     description :  
