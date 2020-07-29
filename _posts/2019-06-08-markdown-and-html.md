@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Estados y procesos latentes de Markov
-subtitle : Pasado, presente y futuro
+subtitle : Pasado, presente y futuro de los agentes
 tags: [Markov, procesos latentes]
-author: Nayeong Kim
+author: Roberto Cantillan
 comments : True
 ---
 
