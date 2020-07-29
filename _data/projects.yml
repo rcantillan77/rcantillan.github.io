@@ -21,11 +21,11 @@
             <li>Tags</li> 
         - title : 3. Hacer contribuciones importantes a la literatura de análisis de redes sociales
           image :
-          description : <li>project 부분 디자인 변경</li>
+          description : <li>project </li>
             <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+            <li>OG Tag </li>
+            <li>profile </li>
+            <li>gem </li> 
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
