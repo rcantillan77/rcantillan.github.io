@@ -1,12 +1,10 @@
 ---
-title: "El valor de la diversidad"
-author: "Cantillan, R."
-date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+layout: post
+title: El valor de la diversidad 
+subtitle : o como hacer más probable la intersección de círculos y el acceso a recursos no redundantes. 
+tags: [Social capital, Heterogeneity]
+author: Roberto Cantillan
+comments : TRUE
 ---
 
 **El valor de la diversidad (extensity)**
