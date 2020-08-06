@@ -6,9 +6,6 @@ tags: [Social Networks, Social capital, Heterogeneity]
 author: Roberto Cantillan
 comments : False
 ---
-
-**El valor de la diversidad (extensity)**
-
 La heterogeneidad describe patrones estructurales de interacción social que 
 pueden mantener o socavar la integración y la desigualdad social (Blau, 1974, 
 1977; Perry et al., 2018). A nivel de ego, la heterogeneidad de contactos 
