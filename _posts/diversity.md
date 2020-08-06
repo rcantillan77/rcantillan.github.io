@@ -1,12 +1,10 @@
 ---
-title: "El valor de la diversidad"
-author: "Cantillan, R."
-date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+layout: post
+title: El valor de la diversidad
+subtitle : Intersección y ventajas culturales de la extensión de las redes personales
+tags: [Social Networks, Social capital, Heterogeneity]
+author: Roberto Cantillan
+comments : False
 ---
 
 **El valor de la diversidad (extensity)**
