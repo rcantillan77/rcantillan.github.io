@@ -2,7 +2,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : redeslab.gitlab.io/ # Full URL
-    image : "viridis9.png" # path: assets/project/
+    image : "redeslab6.png" # path: assets/project/
     date : 2020.06.09 - En desarrollo
     title : redesLab 
     summary : Laboratorio de Análisis de Redes Sociales
