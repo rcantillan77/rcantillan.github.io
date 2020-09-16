@@ -25,15 +25,17 @@ theme_settings :
       
     skills : 
       - skill : markdown
-        value : 50
+        value : 65
       - skill : R (programmer) 
         value : 65 
       - skill : idioma (inglés) 
         value : 80 
       - skill : Social Network Analysis
-        value : 60
+        value : 65
       - skill : Statistics
-        value : 60 
+        value : 65 
+      - skill : Qualitative Methodology
+        value : 60
        
         
   # Icons
