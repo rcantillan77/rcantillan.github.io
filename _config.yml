@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://cvrcantillan.netlify.app"
+url : # "https://cvrcantillan.netlify.app"#
 
 # Blog Settings
 theme_settings :
