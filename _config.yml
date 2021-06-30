@@ -13,8 +13,12 @@ theme_settings :
     username : Roberto Cantillan Carrasco
     description : Sociólogo, Magister en Ciencias Sociales por la Universidad de Santiago de Chile. Miembro del laboratorio de Análisis de Redes Sociales. 
     experience :
+    
+      - start : 2021
+      - end : Hasta la fecha
+      - experience : Asistente en PIC UDLA
       - start : 2020
-        end : Hasta la fecha
+        end : 2021
         experience : Asistente CICLOS - UDP 
       - start : 2018-03-01
         end : Hasta la fecha
