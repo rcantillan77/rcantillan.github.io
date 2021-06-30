@@ -15,19 +15,19 @@ theme_settings :
     experience :
     
       - start : 2021
-      - end : Hasta la fecha
-      - experience : Asistente en PIC UDLA
+        end : Hasta la fecha
+        experience : Asistente en PIC UDLA
       - start : 2020
         end : 2021
         experience : Asistente CICLOS - UDP 
-      - start : 2018-03-01
+      - start : 2018
         end : Hasta la fecha
         experience : FONDECYT 1171426, Asistente técnico
-      - start : 2018-07-01
-        end : 2020-01-28
+      - start : 2018
+        end : 2020
         experience : Universidad de Santiago de Chile, Psi. Profesor
-      - start : 2019-06-01
-        end : 2020-03-15
+      - start : 2019
+        end : 2020
         experience : Instituto de Seguridad del Trabajo, Analista 
       
     skills : 
